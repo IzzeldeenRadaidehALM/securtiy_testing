@@ -4,4 +4,3 @@ if __name__ == "__main__":
         secrets = json.load(f)
     print(secrets["password"])
     print(secrets["api_key"])
-    print(secrets["secret_key"])
