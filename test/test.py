@@ -5,3 +5,4 @@ if __name__ == "__main__":
 
     print(secrets["password"])
     print(secrets["secret_key"])
+    print(secrets["api_key"])
